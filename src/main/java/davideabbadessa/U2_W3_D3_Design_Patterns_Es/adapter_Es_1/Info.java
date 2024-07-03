@@ -1,4 +1,4 @@
-package davideabbadessa.U2_W3_D3_Design_Patterns_Es.adapter1;
+package davideabbadessa.U2_W3_D3_Design_Patterns_Es.adapter_Es_1;
 
 import lombok.Getter;
 import lombok.Setter;
@@ -15,5 +15,5 @@ public class Info {
     private String cognome;
     private Date dataDiNascita;
 
-    
+
 }
